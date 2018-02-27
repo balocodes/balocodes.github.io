@@ -1,0 +1,18 @@
+a:hover {
+    font-size: x-large;
+    transition-duration: 2s;
+    transform-style: preserve-3d;
+}
+
+a {
+    transition-duration: 2s;
+}
+
+.balo-standard {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+.balo-back {
+    background-color: ghostwhite;
+}
