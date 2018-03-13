@@ -1,3 +1,7 @@
+html {
+    background-color: #FE7722;
+}
+
 a:hover {
     font-size: x-large;
     transition-duration: 2s;
