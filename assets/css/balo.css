@@ -1,6 +1,6 @@
-body {
+/* body {
     background-color: #FE7722;
-}
+} */
 
 a:hover {
     font-size: x-large;
@@ -18,5 +18,5 @@ a {
 }
 
 .balo-back {
-    background-color: ghostwhite;
+    background-color: #FE7722;
 }
